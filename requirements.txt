@@ -1,0 +1,4 @@
+pydub==0.16.6
+logging==0.4.9.6
+progressbar==2.3
+pydub==0.16.6
